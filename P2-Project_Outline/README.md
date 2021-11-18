@@ -19,6 +19,7 @@ This project was motivated by the need of a local charity organization that i vo
 * MySql
 * Thymeleaf templates
 * Bootstrap
+* JavaScript
 
 ### What I'll Have to Learn
 For the login functionality, I have to learn how to encrypt passwords and to explore the possiblity of using the Google authentication.
